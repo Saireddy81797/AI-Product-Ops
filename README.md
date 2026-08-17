@@ -218,9 +218,6 @@ The deployed case study presents:
 * Verification results
 * Buildability opportunities
 
-**Live Case Study:**
-https://saireddy81797.github.io/AI-Product-Ops/
-
 ## Source Repository
 
 https://github.com/Saireddy81797/AI-Product-Ops
